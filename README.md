@@ -8,4 +8,4 @@
 - 💻 Estudio en la Universidad Nacional de Colombia
 - 🎸 Me gusta escuchar música y hacer deporte
 
-
+<img align="center" alt="Schleidens" src="https://i.gifer.com/1eVe.gif"/>
